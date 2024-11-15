@@ -12,6 +12,16 @@
 
 ---
 
+## 🎥 **Démonstration**
+
+Cliquez sur l'image ci-dessous pour visionner la vidéo de démonstration de mon projet :
+
+<a href="https://akamidev.github.io/salesforce-selenium-tests/">
+    <img src="./Photo11.png" alt="Aperçu de la vidéo" width="500">
+</a>
+
+---
+
 ## 📋 Description
 Le projet **Salesforce Selenium Tests Suite** est conçu pour automatiser les tests fonctionnels de formulaires sur Salesforce CRM. Il permet de valider les fonctionnalités critiques comme la création d'utilisateurs, la suppression, et la connexion en utilisant **Selenium WebDriver** avec des tests écrits en **JUnit 5**. Ce projet est idéal pour valider l'intégration et les fonctionnalités de votre CRM Salesforce.
 
