@@ -53,3 +53,7 @@ Pour toute question, n'hésitez pas à me contacter :
 - **💼 [LinkedIn](https://www.linkedin.com/in/akami-mehdi/)**
 - **🐦 [Portfolio](https://akamimehdi.netlify.app/)**
 - **📧 Email : akamimehdi.dev@gmail.com**
+
+  ---
+
+ **⭐ N'oubliez pas de laisser une étoile si ce projet vous a aidé ! ⭐**
